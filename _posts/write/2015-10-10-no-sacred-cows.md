@@ -16,4 +16,4 @@ But that is not how it should be. In the fast-paced world of software developmen
 
 ## The symptoms and why it's bad for everyone involved
 
-AD, Nine blocker, 
+
