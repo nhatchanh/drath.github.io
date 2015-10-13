@@ -5,6 +5,7 @@ modified:
 categories: code
 excerpt:
 tags: [PhoneGap]
+comments: true
 image:
   feature:
 date: 2015-10-09T08:08:50-04:00
