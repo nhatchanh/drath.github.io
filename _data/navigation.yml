@@ -3,17 +3,14 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: Draw
+  url: /draw/
 
-- title: Blog
-  url: /blog/
+- title: Write
+  url: /write/
 
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Code
+  url: /code/
 
 - title: Search
   url: /search/
