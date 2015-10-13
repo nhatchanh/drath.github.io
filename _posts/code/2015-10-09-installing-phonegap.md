@@ -11,7 +11,7 @@ image:
 date: 2015-10-09T08:08:50-04:00
 ---
 
-This is not a blog on why hybrid applications are worth your time. There are other resources on the WWW that delve into this. This blog, however, is about how to get started making hybrid applications using PhoneGap. It's still not the easiest thing to do, and it still takes a couple of days to get everything setup just perfect for that next killer mobile app. This post aims to make that process a little less painful.
+This is *not* a blog on why hybrid applications are worth your time. There are other resources on the WWW that delve into this. This blog, however, is about how to get started making hybrid applications using PhoneGap. It's still not the easiest thing to do, and it still takes a couple of days to get everything setup just perfect for that next killer mobile app. This post aims to make that process a little less painful.
 
 ## Assumptions
 
