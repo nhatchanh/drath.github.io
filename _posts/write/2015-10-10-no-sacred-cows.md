@@ -18,7 +18,7 @@ But this causes two problems to the team and the company as whole.
 
 One, since there is no one else to handle the code, the product quality is at risk, should the person decide to leave and go elsewhere. 
 
-Two, if the product has both maintenance and development life-cycles, it is usually impossible for the same person to do both at the same time...and so he or she ends up working on the maintenance end of things most of the time. This leads to a reduction in motivation over time.
+Two, if the product has both maintenance and development life-cycles, it is usually impossible for the same person to do both at the same time...and so he or she ends up working on the maintenance end of things most of the time. This leads to a reduction in motivation over time. 
 
 ## Make the tough call
 
