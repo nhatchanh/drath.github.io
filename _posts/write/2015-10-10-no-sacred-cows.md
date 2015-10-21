@@ -4,7 +4,8 @@ title: "No sacred cows"
 modified:
 categories: write
 excerpt:
-tags: []
+tags: [Development]
+comments: true
 image:
   feature:
 date: 2015-10-09T08:08:50-04:00
