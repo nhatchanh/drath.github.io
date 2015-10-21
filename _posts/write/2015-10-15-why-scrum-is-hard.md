@@ -67,7 +67,7 @@ On Page 80, of the book, the author very rightly points out a common problem wit
 
 That's quite nice, except it does not work in real world issues. More often than not, you have exactly one person who has the skills to handle the complex task relating to that active proxy component's interaction with the web server. And it's not so simple as "opening up the line". It may take months for someone else to know about that piece of code, well enough to make changes. 
 
-The intense nature of code, and the pre-requisites around them, necessitate the growth of specialists in the team. This is sometimes unfortunate, as specialists can become [sacred cows]({% post_url /write/2015-10-10-no-sacred-cows%}) over time and cause other problems. But it is a fact that complex production level code cannot be simply be worked on by someone...just because someone else got blocked.
+The intense nature of code, and the pre-requisites around them, necessitate the growth of specialists in the team. This is sometimes unfortunate, as specialists can become [sacred cows](http://drath.github.io/write/no-sacred-cows/) over time and cause other problems. But it is a fact that complex production level code cannot be simply be worked on by someone...just because someone else got blocked.
 
 Do you have full redundancy in your team in terms of skill-sets? If you have good for you. If not, your stand-ups might be plain old status meetings under the hood.
 
